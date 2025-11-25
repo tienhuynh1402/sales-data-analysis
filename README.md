@@ -80,7 +80,7 @@ This analysis reveals critical opportunities for TechHub Electronics to:
 
 ### Figure 1: Top Product Bundles
 
-![Top 5 Product Groups Sold Together](figure1_product_bundles.png)
+![Top 5 Product Groups Sold Together](./screenshots/figure1_product_bundles.png)
 
 **Analysis:**
 The horizontal bar chart reveals the five most popular product combinations purchased together. **iPhone Lightning Charging Cables** lead with approximately **900 units**, closely followed by **Google Phone USB-C Charging Cables** at around **800 units**. 
@@ -98,7 +98,7 @@ Focus inventory investment on charging cables and create strategic bundle offers
 
 ### Figure 2: Product Sales Volume vs Price Analysis
 
-![Product Sales Volume vs Average Price](figure1_product_bundles.png)
+![Product Sales Volume vs Average Price](./screenshots/figure2_product_volume_price.png)
 
 **Analysis:**
 This dual-axis chart reveals the relationship between product sales volume (green bars) and average pricing (blue line). **AAA Batteries (4-pack)** lead in quantity with over **31,000 units sold**, followed by **AA Batteries (4-pack)** at approximately **27,500 units**. In stark contrast, high-ticket items like the **Macbook Pro Laptop** (~$1,700) and **ThinkPad Laptop** (~$1,000) show minimal unit sales despite their premium pricing.
@@ -117,7 +117,7 @@ While batteries drive volume, their low price points limit revenue contribution.
 
 ### Figure 3: Top Product Sales Trends by Month
 
-![Top Product Sales Trends by Month](figure3_product_monthly_trends.png)
+![Top Product Sales Trends by Month](./screenshots/figure3_product_monthly_trends.png)
 
 **Analysis:**
 This multi-line chart tracks the monthly sales performance of the five best-selling products throughout the year. All products show a **dramatic surge in December** (month 12), reaching approximately **2,800-3,000 units** each. The chart reveals consistent seasonal patterns with a notable **dip during summer months** (June-August) followed by steady growth into Q4.
@@ -137,7 +137,7 @@ The synchronized seasonal patterns across all products enable streamlined invent
 
 ### Figure 4: Monthly Sales Trends
 
-![Monthly Sales Performance](figure4_monthly_sales.png)
+![Monthly Sales Performance](./screenshots/figure4_monthly_sales.png)
 
 **Analysis:**
 Monthly sales data shows a clear **seasonal pattern** with significant variation throughout the year. Sales start low in January at **$1.8M**, gradually increase through spring and summer, peak dramatically in **December at $4.6M**, then drop sharply back to baseline.
@@ -155,7 +155,7 @@ Implement aggressive inventory buildups before October and plan promotional camp
 
 ### Figure 5: Hourly Sales Performance
 
-![Sales by Hour](figure5_hourly_sales.png)
+![Sales by Hour](./screenshots/figure5_hourly_sales.png)
 
 **Analysis:**
 The line chart tracks sales throughout a 24-hour period, revealing distinct **bimodal distribution** with two clear peak periods. Sales start low in early morning hours, surge dramatically during lunch hours (**11 AM - 1 PM**, reaching **$2.3M**), maintain strong afternoon performance, peak again during evening hours (**6 PM - 8 PM** at **$2.4M**), then decline rapidly after 8 PM.
@@ -173,7 +173,7 @@ Schedule maximum staff during 11 AM-1 PM and 6 PM-8 PM windows. Consider reduced
 
 ### Figure 6: Sales Distribution by City
 
-![Sales Distribution by City](figure6_city_distribution.png)
+![Sales Distribution by City](./screenshots/figure6_city_distribution.png)
 
 **Analysis:**
 The pie chart reveals the geographic distribution of sales across TechHub Electronics' nine operating cities. **San Francisco dominates with 24%** of total sales, followed by **Los Angeles at 16%** and **New York City at 13%**. Together, these three major metropolitan areas account for **53% of all revenue**. Mid-tier cities (Boston, Atlanta, Dallas, Seattle) each contribute 8-11%, while smaller markets Portland (7%) and Austin (5%) represent growth opportunities.
@@ -192,7 +192,7 @@ While San Francisco's strong performance is positive, the heavy concentration (2
 
 ### Figure 7: City-Hour Heatmap Analysis
 
-![Sales Heatmap by City and Hour](figure7_city_hour_heatmap.png)
+![Sales Heatmap by City and Hour](./screenshots/figure7_city_hour_heatmap.png)
 
 **Analysis:**
 The heatmap visualization displays sales intensity across nine cities and 24 hours. **San Francisco** shows consistently high performance (deep red colors) during peak hours, while cities like **Seattle** and **Portland** show more concentrated evening activity. The visualization clearly identifies **11 AM - 1 PM** and **7 PM - 9 PM** as universal hot zones across all locations.
