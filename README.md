@@ -101,7 +101,7 @@ Focus inventory investment on charging cables and create strategic bundle offers
 ![Product Sales Volume vs Average Price](./screenshots/figure2_product_volume_price.png)
 
 **Analysis:**
-This dual-axis chart reveals the relationship between product sales volume (green bars) and average pricing (blue line). **AAA Batteries (4-pack)** lead in quantity with over **31,000 units sold**, followed by **AA Batteries (4-pack)** at approximately **27,500 units**. In stark contrast, high-ticket items like the **Macbook Pro Laptop** (~$1,700) and **ThinkPad Laptop** (~$1,000) show minimal unit sales despite their premium pricing.
+This dual-axis chart reveals the relationship between product sales volume (green bars) and average pricing (blue line). **AAA Batteries (4-pack)** lead in quantity with over **31,000 units sold**, followed by **AA Batteries (4-pack)** at approximately **27,500 units**. In stark contrast, high-ticket items like the **Macbook Pro Laptop** ($1,700) and **ThinkPad Laptop** ($1,000) show minimal unit sales despite their premium pricing.
 
 **Insights:**
 - **Battery dominance:** AA and AAA batteries represent the highest-volume products, indicating strong demand for low-cost consumables
